@@ -2,7 +2,7 @@
 
 ## Overview
 
-AWS Utility JAR which can transfer a specified directory to desired S3 bucket.
+AWS Utility JAR which can upload or download a specified directory from/to desired S3 bucket.
 
 ## Build
 Before you compile , you will need few things
