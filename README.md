@@ -26,7 +26,7 @@ mvn clean package
 
 ## Usage
 ```
-java -jar AWSS3FileTransfer-1.0-SNAPSHOT-jar-with-dependencies.jar -r <s3_region> -d <source_dir> -p <dir_prefix> -b <bucket_name> -m <mode> -c <config.yaml> 
+java -jar aws-s3-file-transfer.jar -r <s3_region> -d <source_dir> -p <dir_prefix> -b <bucket_name> -m <mode> -c <config.yaml> 
 ```
 
 ### Accepted arguments
