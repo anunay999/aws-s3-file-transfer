@@ -1,0 +1,6 @@
+multipartUploadThresholdSizeBytes: 1073741824 # the size threshold in bytes for when to use multipart uploads
+multipartUploadMinSizeBytes: 0 # the minimum part size for upload parts
+disableParallelUpload: false # the option to disable parallel downloads
+maxTransferThreadCount: 100 # maximum number of transfer threads
+maxConnectionRetryCount: 100
+maxConnectionTimeoutMs: 100000
